@@ -1,0 +1,10 @@
+# build artifacts
+*.exe
+*.ilk
+*.pdb
+*.obj
+*.o
+*.msi
+*.crdownload
+build/
+.vscode/
